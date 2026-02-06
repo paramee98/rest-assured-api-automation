@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/gson-2.13.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/jackson-annotations-3.0-rc5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/jackson-core-3.1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/jackson-databind-3.1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/jcommander-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/selenium-api-4.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/selenium-chrome-driver-4.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/selenium-java-4.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/slf4j-api-2.1.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKAM/Downloads/testng-7.12.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
